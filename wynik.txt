@@ -1,0 +1,6 @@
+papadabrowski@papadabrowski-VirtualBox:~/Downloads/nbd/lab6$ python lab6.py 
+{"body": "Call me Ishmael. Some years ago...", "author": "Herman Melville", "isbn": "1111979723", "copies_owned": 3, "title": "Moby Dick"}
+{"body": "Call me Ishmael. Some years ago...", "title": "WITAM SERDECZNIE", "isbn": "1111979723", "copies_owned": 3, "author": "Herman Melville"}
+None
+papadabrowski@papadabrowski-VirtualBox:~/Downloads/nbd/lab6$ 
+
